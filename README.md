@@ -157,6 +157,7 @@ flowchart LR
 
 ## Links
 
+- 📱 Google Play: [Mohami Plus](https://play.google.com/store/apps/details?id=com.mohami.plus)
 - 🌐 Website: [mohami.plus](https://mohami.plus)
 - 🖥️ Web app: [mohami.plus/home](https://mohami.plus/home/)
 - 🧩 Related: [Mohami Plus web case study](https://github.com/ANaSHaker/mohami-plus-web-case-study) · [LegalPal app](https://github.com/ANaSHaker/legalpal-app-case-study)
