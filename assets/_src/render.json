@@ -1,0 +1,107 @@
+{
+  "outDir": "..",
+  "brand": {
+    "name": "Mohami Plus",
+    "tagline": "AI legal assistant for Iraq",
+    "accent": "#D4AF37",
+    "accent2": "#2F5AA8",
+    "logo": "D:/shaker-github/_work/mp_web/home/icons/Icon-512.png",
+    "dark": true
+  },
+  "images": [
+    {
+      "type": "banner",
+      "file": "banner.png",
+      "kicker": "Case Study · LegalTech · Iraq",
+      "subtitle": "An AI legal assistant for Iraqi law: 18 AI services, case files, PDF contracts and legal tools in Arabic and English.",
+      "screens": [
+        "D:/shaker-github/_work/mohami-shots/mp/ai_chat.png",
+        "D:/shaker-github/_work/mohami-shots/mp/home_first.png",
+        "D:/shaker-github/_work/mohami-shots/mp/emergency.png"
+      ],
+      "devices": [
+        "android",
+        "iphone",
+        "android"
+      ],
+      "chips": [
+        "Flutter",
+        "Bloc / Cubit",
+        "Laravel 12",
+        "Gemini + Grok",
+        "AR / EN"
+      ]
+    },
+    {
+      "type": "gallery",
+      "file": "screens-legal-tools.png",
+      "title": "Everyday legal tools",
+      "screens": [
+        "D:/shaker-github/_work/mohami-shots/mp/IraqiLegalQuestionsScreen.png",
+        "D:/shaker-github/_work/mohami-shots/mp/legalDictionary_data.png",
+        "D:/shaker-github/_work/mohami-shots/mp/legalDeadlines.png",
+        "D:/shaker-github/_work/mohami-shots/mp/inheritance.png",
+        "D:/shaker-github/_work/mohami-shots/mp/ProcedureStepsScreen.png"
+      ],
+      "device": "mixed",
+      "cols": 5
+    },
+    {
+      "type": "devices",
+      "file": "screens-services.png",
+      "title": "Lawyers, services, courts and reminders",
+      "screens": [
+        "D:/shaker-github/_work/mohami-shots/mp/BestLawyersScreen.png",
+        "D:/shaker-github/_work/mohami-shots/mp/ServicesScreen.png",
+        "D:/shaker-github/_work/mohami-shots/mp/courtsScreenn.png",
+        "D:/shaker-github/_work/mohami-shots/mp/reminders.png",
+        "D:/shaker-github/_work/mohami-shots/mp/loginPage.png"
+      ],
+      "devices": [
+        "iphone",
+        "android",
+        "iphone",
+        "android",
+        "iphone"
+      ],
+      "width": 1700,
+      "height": 980
+    },
+    {
+      "type": "feature",
+      "file": "feature-ai-assistant.png",
+      "kicker": "Signature feature",
+      "title": "An AI assistant that knows Iraqi law",
+      "points": [
+        "Chat, or pick one of 18 specialised services",
+        "Reads photos of documents (vision input)",
+        "Drafts petitions, notices and powers of attorney",
+        "Primary model + automatic provider fallback",
+        "Results exported as Arabic PDF"
+      ],
+      "screens": [
+        "D:/shaker-github/_work/mohami-shots/mp/ai_chat.png",
+        "D:/shaker-github/_work/mohami-shots/mp/home_first.png"
+      ],
+      "devices": [
+        "iphone",
+        "android"
+      ]
+    },
+    {
+      "type": "feature",
+      "file": "feature-emergency.png",
+      "kicker": "Built for real moments",
+      "title": "Emergency legal help (SOS)",
+      "points": [
+        "One tap opens WhatsApp to the support team",
+        "Optional live location attached to the message",
+        "Situation chips: arrest, summons, search, interrogation",
+        "Know-your-rights cards with legal references",
+        "Hands off to the AI assistant for follow-up"
+      ],
+      "screen": "D:/shaker-github/_work/mohami-shots/mp/emergency.png",
+      "device": "android"
+    }
+  ]
+}

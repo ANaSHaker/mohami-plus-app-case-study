@@ -1,0 +1,17 @@
+{
+  "name": "mohami-plus-app-case-study",
+  "description": "Case study: Mohami Plus, an AI legal assistant for Iraq. Flutter app for Android, iOS and web with 18 AI legal services, provider fallback, Arabic PDF contracts, legal tools and emergency help. Your legal counsel, ready in a moment",
+  "topics": [
+    "flutter",
+    "case-study",
+    "legaltech",
+    "ai",
+    "bloc",
+    "laravel",
+    "arabic",
+    "rtl",
+    "i18n",
+    "iraq"
+  ],
+  "homepage": "https://mohami.plus"
+}
